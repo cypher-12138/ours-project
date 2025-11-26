@@ -1,0 +1,16 @@
+opencv-contrib-python
+pyqt6
+ultralytics
+torch
+torchvision
+pyyaml
+pyinstaller
+numpy
+matplotlib
+Pillow
+scipy
+scikit-learn
+requests
+pandas
+jupyter
+notebook
