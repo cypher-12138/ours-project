@@ -1,4 +1,5 @@
 Git 版本管理工具实践报告
+
 一、学习资料来源
 1. Git 官方文档：https://git-scm.com/doc
 2. 菜鸟教程 Git：https://www.runoob.com/git/git-tutorial.html
@@ -18,7 +19,8 @@ Git 版本管理工具实践报告
 3. 第三次提交：添加读书笔记，完成任务拓展
 
 四、遇到的问题及解决方法
- 问题1：git push 时报错，提示权限拒绝
+
+问题1：git push 时报错，提示权限拒绝
 原因：未登录或账号密码错误
 解决方法：
 1. 使用Gitee的个人令牌登录
